@@ -1,0 +1,2 @@
+Link to project on dockerHub - https://hub.docker.com/repository/docker/hantczak/github-repository-viewer
+Under this link also README can be found, in the project description, attached to the project repository. 
